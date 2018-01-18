@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2024
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PratchettQuotesCore", "PratchettQuotesCore\PratchettQuotesCore.csproj", "{4D4A52DD-D7B4-4B7F-97EA-6236FD8ABA53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PratchetQuotesCoresSample", "PratchetQuotesCoresSample\PratchetQuotesCoresSample.csproj", "{EA38B552-ED1B-47F2-8E59-38152D8012BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D4A52DD-D7B4-4B7F-97EA-6236FD8ABA53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D4A52DD-D7B4-4B7F-97EA-6236FD8ABA53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D4A52DD-D7B4-4B7F-97EA-6236FD8ABA53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D4A52DD-D7B4-4B7F-97EA-6236FD8ABA53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA38B552-ED1B-47F2-8E59-38152D8012BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA38B552-ED1B-47F2-8E59-38152D8012BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA38B552-ED1B-47F2-8E59-38152D8012BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA38B552-ED1B-47F2-8E59-38152D8012BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B4C76FF8-64F6-4FA6-BBB7-F7BC9E583A25}
+	EndGlobalSection
+EndGlobal
